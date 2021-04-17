@@ -1,0 +1,3 @@
+class Prog4{
+
+}
